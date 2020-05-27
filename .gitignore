@@ -1,0 +1,5 @@
+# ignorer tous les logs (le slash au début n'est pas obligatoire)
+/logs/*.log
+
+# on peut aussi inclure, mais bien respecter l'ordre des commandes
+!/logs/.gitkeep
